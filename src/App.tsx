@@ -20,6 +20,7 @@ function App() {
       <Awards />
       <MobileProject />
       <WebProject />
+      {/* lol */}
     </div>
   );
 }
